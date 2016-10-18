@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UEditorForOSS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UEditorForOSS_jar</output-path>
+    <root id="archive" name="UEditorForOSS.jar">
+      <element id="module-output" name="UEditorForOSS" />
+    </root>
+  </artifact>
+</component>
